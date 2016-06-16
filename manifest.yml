@@ -3,3 +3,6 @@ applications:
 - name: pe-timetest-app
   disk: 256M
   memory: 128M
+  env:
+    SLOW_QUERY_LOG_THRESHOLD: 200000
+    
