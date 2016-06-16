@@ -1,0 +1,5 @@
+---
+applications:
+- name: pe-timetest-app
+  disk: 256M
+  memory: 128M

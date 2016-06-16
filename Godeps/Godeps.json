@@ -1,0 +1,6 @@
+{
+	"ImportPath": "github.com/springernature/pe-timetest-app",
+	"GoVersion": "go1.5",
+	"GodepVersion": "v74",
+	"Deps": []
+}
